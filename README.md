@@ -1,0 +1,26 @@
+### Greetings,
+### My name is Travis Zalesky, and I am a Research Assistant at Fungi Perfecti in the <a href="https://fungi.com/pages/research-and-development">Research and Development Department</a>.
+### This is my professional git-hub, representing Fungi Perfecti's research and mission.
+### "Fungi Perfecti, LLC is a family-owned business dedicated to promoting the cultivation of high quality gourmet and medicinal mushrooms. In business since 1980, we have been instrumental in developing new technologies and markets for gourmet mushrooms throughout the world." - <a href="https://fungi.com/pages/about-us">fungi.com</a>
+
+### Our department's focus is on fundamental bio-tech research on the effects of <em>mushroom mycelium</em> on <i>human</i> and <i>environmental</i> health.
+### My personal area of focus is on fungal biology, applied mycology, fungal ecology, bioremediation strategies, cryogenics, and data sciences (particularly in R).
+### The objective of this page is to share research, data, and code developed at Fungi Perfecti that may be of broader use or interest to the public, and especially the mycological community.
+### If you have any questions about the contents of this page you can contact me at travis.z@fungi.com. Ask me about techniques in mycology, and especially about cryogenic preservation of fungal tissue!
+### My favorite mushroom is King Stropharia (<i>Stropharia rugosoannulata</i>, aka the Garden Giant or Wine Cap). I love them for their size and color, being one of the most photogenic mushrooms in my opinion, but they are also easy to grow, excellent for soil health, and are delicious to eat.
+
+<!--
+**TCZ-FP-RandD/TCZ-FP-RandD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
