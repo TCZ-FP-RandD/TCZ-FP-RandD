@@ -7,7 +7,7 @@
 ### My personal area of focus is on fungal biology, applied mycology, fungal ecology, bioremediation strategies, cryogenics, and data sciences (particularly in R).
 ### The objective of this page is to share research, data, and code developed at Fungi Perfecti that may be of broader use or interest to the public, and especially the mycological community.
 ### If you have any questions about the contents of this page you can contact me at travis.z@fungi.com. Ask me about techniques in mycology, and especially about cryogenic preservation of fungal tissue!
-### My favorite mushroom is King Stropharia (<i>Stropharia rugosoannulata</i>, aka the Garden Giant or Wine Cap). I love them for their size and color, being one of the most photogenic mushrooms in my opinion, but they are also easy to grow, excellent for soil health, and are delicious to eat.
+### My favorite mushroom is King Stropharia (<i>Stropharia rugosoannulata</i>, aka the Garden Giant or Wine Cap). I love them for their size and color, being one of the most photogenic mushrooms in my opinion, but they are also easy to grow, are excellent for soil health, and are delicious to eat.
 
 <!--
 **TCZ-FP-RandD/TCZ-FP-RandD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
